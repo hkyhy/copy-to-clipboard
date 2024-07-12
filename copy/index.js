@@ -1,3 +1,3 @@
 export { default as copyElement } from './copyElement';
-export { default as copyTxt } from './copyTxt';
-export { default as copyTxtWithStyle } from './copyTxtWithStyle';
+export { default as copyText } from './copyText';
+export { default as copyTextWithStyle } from './copyTextWithStyle';
