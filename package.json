@@ -1,6 +1,6 @@
 {
   "name": "@hkyhy/copy-to-clipboard",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "复制文案、元素、富文本内容到剪贴板",
   "main": "index.js",
   "scripts": {
