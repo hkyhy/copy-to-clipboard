@@ -1,7 +1,7 @@
-import { copyTxt, copyElement, copyTxtWithStyle } from "./copy";
+import { copyText, copyElement, copyTextWithStyle } from "./copy";
 
 module.exports = {
-  copyTxt,
+  copyText,
   copyElement,
-  copyTxtWithStyle
+  copyTextWithStyle
 };
